@@ -35,16 +35,19 @@ body{
 .txt-salmon{color: #FF877F;}
 .news h2{
     font-size: 4em;
+    letter-spacing: -5px;
 }
 .news p{
     font-weight: 400;
     font-size: 1.5em;
     text-align: justify;
     max-width: 450px;
+    margin-top: 25px;
     margin-bottom: 15px;
 }
 .inp{
     width: 450px;
+    margin-top: 2em;
 }
 .inp > input{
     border: none;
